@@ -1,5 +1,8 @@
 # Proyecto: Sistema de Gestión de Licorera
 
+- Jose Julián Ortega  
+- Rafael Osorio
+
 ## Descripción del sistema
 
 Este sistema es una aplicación para la gestión de una licorera, desarrollado utilizando MongoDB como base de datos no relacional.
