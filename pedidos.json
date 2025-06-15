@@ -1,0 +1,257 @@
+[
+  {
+    "id": 1,
+    "cliente_id": 1,
+    "empleado_id": 1,
+    "sede_id": 13,
+    "fecha": "2024-11-06",
+    "estado": "entregado",
+    "total": 150579,
+    "productos": [
+      {"nombre": "Producto 15", "cantidad": 2, "precio_unitario": 41570, "subtotal": 83140},
+      {"nombre": "Producto 11", "cantidad": 1, "precio_unitario": 67439, "subtotal": 67439}
+    ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 28,
+    "empleado_id": 15,
+    "sede_id": 10,
+    "fecha": "2024-04-23",
+    "estado": "cancelado",
+    "total": 543940,
+    "productos": [
+      {"nombre": "Producto 7", "cantidad": 2, "precio_unitario": 66058, "subtotal": 132116},
+      {"nombre": "Producto 1", "cantidad": 3, "precio_unitario": 55249, "subtotal": 165747},
+      {"nombre": "Producto 21", "cantidad": 1, "precio_unitario": 32051, "subtotal": 32051},
+      {"nombre": "Producto 10", "cantidad": 3, "precio_unitario": 71342, "subtotal": 214026}
+    ]
+  },
+  {
+    "id": 3,
+    "cliente_id": 5,
+    "empleado_id": 16,
+    "sede_id": 4,
+    "fecha": "2024-04-03",
+    "estado": "cancelado",
+    "total": 82253,
+    "productos": [
+      {"nombre": "Producto 27", "cantidad": 1, "precio_unitario": 82253, "subtotal": 82253}
+    ]
+  },
+  {
+    "id": 4,
+    "cliente_id": 30,
+    "empleado_id": 6,
+    "sede_id": 3,
+    "fecha": "2024-12-05",
+    "estado": "cancelado",
+    "total": 154913,
+    "productos": [
+      {"nombre": "Producto 13", "cantidad": 1, "precio_unitario": 55145, "subtotal": 55145},
+      {"nombre": "Producto 30", "cantidad": 3, "precio_unitario": 33256, "subtotal": 99768}
+    ]
+  },
+  {
+    "id": 5,
+    "cliente_id": 7,
+    "empleado_id": 4,
+    "sede_id": 15,
+    "fecha": "2024-06-22",
+    "estado": "en proceso",
+    "total": 278810,
+    "productos": [
+      {"nombre": "Producto 27", "cantidad": 3, "precio_unitario": 82253, "subtotal": 246759},
+      {"nombre": "Producto 21", "cantidad": 1, "precio_unitario": 32051, "subtotal": 32051}
+    ]
+  },
+  {
+    "id": 6,
+    "cliente_id": 13,
+    "empleado_id": 5,
+    "sede_id": 15,
+    "fecha": "2024-03-03",
+    "estado": "en proceso",
+    "total": 402632,
+    "productos": [
+      {"nombre": "Producto 16", "cantidad": 2, "precio_unitario": 52157, "subtotal": 104314},
+      {"nombre": "Producto 15", "cantidad": 3, "precio_unitario": 41570, "subtotal": 124710},
+      {"nombre": "Producto 19", "cantidad": 2, "precio_unitario": 48669, "subtotal": 97338},
+      {"nombre": "Producto 8", "cantidad": 1, "precio_unitario": 76270, "subtotal": 76270}
+    ]
+  },
+  {
+    "id": 7,
+    "cliente_id": 12,
+    "empleado_id": 17,
+    "sede_id": 11,
+    "fecha": "2024-09-07",
+    "estado": "en proceso",
+    "total": 453962,
+    "productos": [
+      {"nombre": "Producto 27", "cantidad": 2, "precio_unitario": 82253, "subtotal": 164506},
+      {"nombre": "Producto 11", "cantidad": 2, "precio_unitario": 67439, "subtotal": 134878},
+      {"nombre": "Producto 18", "cantidad": 2, "precio_unitario": 77289, "subtotal": 154578}
+    ]
+  },
+  {
+    "id": 8,
+    "cliente_id": 23,
+    "empleado_id": 4,
+    "sede_id": 3,
+    "fecha": "2024-06-12",
+    "estado": "entregado",
+    "total": 180022,
+    "productos": [
+      {"nombre": "Producto 9", "cantidad": 1, "precio_unitario": 49150, "subtotal": 49150},
+      {"nombre": "Producto 3", "cantidad": 2, "precio_unitario": 42250, "subtotal": 84500},
+      {"nombre": "Producto 28", "cantidad": 1, "precio_unitario": 46472, "subtotal": 46472}
+    ]
+  },
+  {
+    "id": 9,
+    "cliente_id": 26,
+    "empleado_id": 6,
+    "sede_id": 4,
+    "fecha": "2024-07-02",
+    "estado": "cancelado",
+    "total": 140401,
+    "productos": [
+      {"nombre": "Producto 6", "cantidad": 1, "precio_unitario": 75333, "subtotal": 75333},
+      {"nombre": "Producto 10", "cantidad": 1, "precio_unitario": 65068, "subtotal": 65068}
+    ]
+  },
+  {
+    "id": 10,
+    "cliente_id": 3,
+    "empleado_id": 1,
+    "sede_id": 13,
+    "fecha": "2024-02-17",
+    "estado": "en proceso",
+    "total": 193843,
+    "productos": [
+      {"nombre": "Producto 2", "cantidad": 3, "precio_unitario": 64614, "subtotal": 193842}
+    ]
+  },
+  {
+    "id": 11,
+    "cliente_id": 10,
+    "empleado_id": 19,
+    "sede_id": 2,
+    "fecha": "2024-09-13",
+    "estado": "entregado",
+    "total": 146697,
+    "productos": [
+      {"nombre": "Producto 7", "cantidad": 1, "precio_unitario": 66058, "subtotal": 66058},
+      {"nombre": "Producto 12", "cantidad": 1, "precio_unitario": 80639, "subtotal": 80639}
+    ]
+  },
+  {
+    "id": 12,
+    "cliente_id": 29,
+    "empleado_id": 5,
+    "sede_id": 3,
+    "fecha": "2024-01-11",
+    "estado": "cancelado",
+    "total": 90015,
+    "productos": [
+      {"nombre": "Producto 22", "cantidad": 1, "precio_unitario": 90015, "subtotal": 90015}
+    ]
+  },
+  {
+    "id": 13,
+    "cliente_id": 8,
+    "empleado_id": 10,
+    "sede_id": 7,
+    "fecha": "2024-05-24",
+    "estado": "entregado",
+    "total": 216741,
+    "productos": [
+      {"nombre": "Producto 14", "cantidad": 2, "precio_unitario": 108370, "subtotal": 216740}
+    ]
+  },
+  {
+    "id": 14,
+    "cliente_id": 22,
+    "empleado_id": 14,
+    "sede_id": 6,
+    "fecha": "2024-08-06",
+    "estado": "entregado",
+    "total": 311868,
+    "productos": [
+      {"nombre": "Producto 29", "cantidad": 3, "precio_unitario": 103956, "subtotal": 311868}
+    ]
+  },
+  {
+    "id": 15,
+    "cliente_id": 17,
+    "empleado_id": 8,
+    "sede_id": 1,
+    "fecha": "2024-10-19",
+    "estado": "en proceso",
+    "total": 236124,
+    "productos": [
+      {"nombre": "Producto 4", "cantidad": 4, "precio_unitario": 59031, "subtotal": 236124}
+    ]
+  },
+  {
+    "id": 16,
+    "cliente_id": 6,
+    "empleado_id": 9,
+    "sede_id": 5,
+    "fecha": "2024-07-29",
+    "estado": "cancelado",
+    "total": 185743,
+    "productos": [
+      {"nombre": "Producto 23", "cantidad": 1, "precio_unitario": 185743, "subtotal": 185743}
+    ]
+  },
+  {
+    "id": 17,
+    "cliente_id": 18,
+    "empleado_id": 2,
+    "sede_id": 9,
+    "fecha": "2024-03-16",
+    "estado": "entregado",
+    "total": 276654,
+    "productos": [
+      {"nombre": "Producto 5", "cantidad": 6, "precio_unitario": 46109, "subtotal": 276654}
+    ]
+  },
+  {
+    "id": 18,
+    "cliente_id": 20,
+    "empleado_id": 12,
+    "sede_id": 12,
+    "fecha": "2024-05-05",
+    "estado": "entregado",
+    "total": 228081,
+    "productos": [
+      {"nombre": "Producto 25", "cantidad": 3, "precio_unitario": 76027, "subtotal": 228081}
+    ]
+  },
+  {
+    "id": 19,
+    "cliente_id": 15,
+    "empleado_id": 3,
+    "sede_id": 8,
+    "fecha": "2024-11-27",
+    "estado": "en proceso",
+    "total": 174420,
+    "productos": [
+      {"nombre": "Producto 26", "cantidad": 2, "precio_unitario": 87210, "subtotal": 174420}
+    ]
+  },
+  {
+    "id": 20,
+    "cliente_id": 24,
+    "empleado_id": 7,
+    "sede_id": 14,
+    "fecha": "2024-10-03",
+    "estado": "entregado",
+    "total": 193998,
+    "productos": [
+      {"nombre": "Producto 24", "cantidad": 2, "precio_unitario": 96999, "subtotal": 193998}
+    ]
+  }
+]

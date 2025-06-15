@@ -1,0 +1,182 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Rafael",
+    "cedula": "123456789",
+    "fechaDeNacimiento": "1990-05-10",
+    "correo": "rafael@gmail.com",
+    "direccion": "Calle 666",
+    "telefono": "3116261255"
+  },
+  {
+    "_id": 2,
+    "nombre": "Laura Martínez",
+    "cedula": "987654321",
+    "fechaDeNacimiento": "1988-03-15",
+    "correo": "laura88@gmail.com",
+    "direccion": "Carrera 45 #12-34",
+    "telefono": "3105556677"
+  },
+  {
+    "_id": 3,
+    "nombre": "Carlos Torres",
+    "cedula": "1122334455",
+    "fechaDeNacimiento": "1995-12-01",
+    "correo": "carlostorres@gmail.com",
+    "direccion": "Calle 10 #4-21",
+    "telefono": "3017788990"
+  },
+  {
+    "_id": 4,
+    "nombre": "Marcela Gómez",
+    "cedula": "2233445566",
+    "fechaDeNacimiento": "1992-07-19",
+    "correo": "marceg@hotmail.com",
+    "direccion": "Av. Siempre Viva #123",
+    "telefono": "3140001122"
+  },
+  {
+    "_id": 5,
+    "nombre": "Daniela Ruiz",
+    "cedula": "3344556677",
+    "fechaDeNacimiento": "1999-11-25",
+    "correo": "danielaruiz99@gmail.com",
+    "direccion": "Calle 13 #6-78",
+    "telefono": "3201112233"
+  },
+  {
+    "_id": 6,
+    "nombre": "José Ramírez",
+    "cedula": "4455667788",
+    "fechaDeNacimiento": "1985-08-30",
+    "correo": "joseramirez@gmail.com",
+    "direccion": "Cra 8 #10-20",
+    "telefono": "3113334455"
+  },
+  {
+    "_id": 7,
+    "nombre": "Ana Torres",
+    "cedula": "5566778899",
+    "fechaDeNacimiento": "1991-01-18",
+    "correo": "anatorres@hotmail.com",
+    "direccion": "Cra 30 #22-55",
+    "telefono": "3129998877"
+  },
+  {
+    "_id": 8,
+    "nombre": "Felipe Acosta",
+    "cedula": "6677889900",
+    "fechaDeNacimiento": "2000-04-03",
+    "correo": "felipeacosta@gmail.com",
+    "direccion": "Calle 8 #4-12",
+    "telefono": "3132211444"
+  },
+  {
+    "_id": 9,
+    "nombre": "Paula Herrera",
+    "cedula": "7788990011",
+    "fechaDeNacimiento": "1996-09-12",
+    "correo": "pauherrera@gmail.com",
+    "direccion": "Carrera 5 #7-89",
+    "telefono": "3001122334"
+  },
+  {
+    "_id": 10,
+    "nombre": "Camilo Rojas",
+    "cedula": "8899001122",
+    "fechaDeNacimiento": "1993-06-27",
+    "correo": "camilorojas@gmail.com",
+    "direccion": "Av. Norte #45-98",
+    "telefono": "3169988776"
+  },
+  {
+    "_id": 11,
+    "nombre": "Natalia Parra",
+    "cedula": "9900112233",
+    "fechaDeNacimiento": "1989-10-10",
+    "correo": "natalia.parra@gmail.com",
+    "direccion": "Calle 4 #5-67",
+    "telefono": "3101234567"
+  },
+  {
+    "_id": 12,
+    "nombre": "Julio Mendoza",
+    "cedula": "1001002003",
+    "fechaDeNacimiento": "1987-02-14",
+    "correo": "jmendoza@gmail.com",
+    "direccion": "Carrera 9 #11-33",
+    "telefono": "3145678901"
+  },
+  {
+    "_id": 13,
+    "nombre": "Tatiana López",
+    "cedula": "2002003004",
+    "fechaDeNacimiento": "1994-07-23",
+    "correo": "tatilpz@gmail.com",
+    "direccion": "Calle 12 #2-19",
+    "telefono": "3123456789"
+  },
+  {
+    "_id": 14,
+    "nombre": "Andrés Mejía",
+    "cedula": "3003004005",
+    "fechaDeNacimiento": "1990-01-01",
+    "correo": "andresmejia@gmail.com",
+    "direccion": "Cra 6 #5-43",
+    "telefono": "3187654321"
+  },
+  {
+    "_id": 15,
+    "nombre": "Carolina Sánchez",
+    "cedula": "4004005006",
+    "fechaDeNacimiento": "1998-05-06",
+    "correo": "carosan@gmail.com",
+    "direccion": "Calle 15 #6-22",
+    "telefono": "3176543210"
+  },
+  {
+    "_id": 16,
+    "nombre": "Esteban Castro",
+    "cedula": "5005006007",
+    "fechaDeNacimiento": "1986-03-09",
+    "correo": "esteban.castro@gmail.com",
+    "direccion": "Cra 7 #8-90",
+    "telefono": "3191112233"
+  },
+  {
+    "_id": 17,
+    "nombre": "Luisa Fernández",
+    "cedula": "6006007008",
+    "fechaDeNacimiento": "1992-11-05",
+    "correo": "luisa.fdz@gmail.com",
+    "direccion": "Carrera 11 #13-40",
+    "telefono": "3211122334"
+  },
+  {
+    "_id": 18,
+    "nombre": "Miguel Salazar",
+    "cedula": "7007008009",
+    "fechaDeNacimiento": "1997-08-08",
+    "correo": "miguelsalazar@gmail.com",
+    "direccion": "Calle 20 #1-30",
+    "telefono": "3053344556"
+  },
+  {
+    "_id": 19,
+    "nombre": "Valentina Pérez",
+    "cedula": "8008009010",
+    "fechaDeNacimiento": "1995-04-16",
+    "correo": "valepz@gmail.com",
+    "direccion": "Cra 18 #14-78",
+    "telefono": "3204445566"
+  },
+  {
+    "_id": 20,
+    "nombre": "Sebastián Reyes",
+    "cedula": "9009001011",
+    "fechaDeNacimiento": "1993-12-30",
+    "correo": "sebasreyes@gmail.com",
+    "direccion": "Calle 1 #2-3",
+    "telefono": "3009876543"
+  }
+]

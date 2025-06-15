@@ -1,0 +1,107 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Licorera Centro",
+    "ciudad": "Bogotá",
+    "direccion": "Carrera 8 #12-34",
+    "telefono": "3001234567"
+  },
+  {
+    "_id": 2,
+    "nombre": "Licorera Norte",
+    "ciudad": "Medellín",
+    "direccion": "Calle 100 #45-10",
+    "telefono": "3019876543"
+  },
+  {
+    "_id": 3,
+    "nombre": "Licorera Sur",
+    "ciudad": "Cali",
+    "direccion": "Carrera 27 #9-88",
+    "telefono": "3104567890"
+  },
+  {
+    "_id": 4,
+    "nombre": "Licorera Sabanalarga",
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 15 #6-20",
+    "telefono": "3007894561"
+  },
+  {
+    "_id": 5,
+    "nombre": "Licorera Prado",
+    "ciudad": "Cartagena",
+    "direccion": "Calle 76 #55-33",
+    "telefono": "3021239876"
+  },
+  {
+    "_id": 6,
+    "nombre": "Licorera La 84",
+    "ciudad": "Manizales",
+    "direccion": "Carrera 84 #45-10",
+    "telefono": "3009876543"
+  },
+  {
+    "_id": 7,
+    "nombre": "Licorera Caribe",
+    "ciudad": "Santa Marta",
+    "direccion": "Calle del Arsenal #25-30",
+    "telefono": "3112233445"
+  },
+  {
+    "_id": 8,
+    "nombre": "Licorera Malambo",
+    "ciudad": "Pereira",
+    "direccion": "Carrera 17 #10-12",
+    "telefono": "3045566778"
+  },
+  {
+    "_id": 9,
+    "nombre": "Licorera Puerto",
+    "ciudad": "Cúcuta",
+    "direccion": "Calle 9 #14-70",
+    "telefono": "3126677889"
+  },
+  {
+    "_id": 10,
+    "nombre": "Licorera Metropolitana",
+    "ciudad": "Villavicencio",
+    "direccion": "Carrera 30 #20-22",
+    "telefono": "3134455667"
+  },
+  {
+    "_id": 11,
+    "nombre": "Licorera San Felipe",
+    "ciudad": "Armenia",
+    "direccion": "Calle 72 #38-90",
+    "telefono": "3159988776"
+  },
+  {
+    "_id": 12,
+    "nombre": "Licorera Rincón",
+    "ciudad": "Ibagué",
+    "direccion": "Carrera 54 #86-11",
+    "telefono": "3165544332"
+  },
+  {
+    "_id": 13,
+    "nombre": "Licorera Costa Azul",
+    "ciudad": "Neiva",
+    "direccion": "Av. Santander #32-50",
+    "telefono": "3146655779"
+  },
+  {
+    "_id": 14,
+    "nombre": "Licorera El Bosque",
+    "ciudad": "Tunja",
+    "direccion": "Calle 45 #29-80",
+    "telefono": "3173322110"
+  },
+  {
+    "_id": 15,
+    "nombre": "Licorera Las Palmas",
+    "ciudad": "Montería",
+    "direccion": "Carrera 21 #56-32",
+    "telefono": "3182233445"
+  }
+]

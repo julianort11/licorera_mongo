@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 1,
+    "nombre": "Santiago Pérez",
+    "cedula": "100000001",
+    "fechaDeNacimiento": "1992-01-10",
+    "correo": "santiago.perez@gmail.com",
+    "direccion": "Calle 10 #5-20",
+    "telefono": 3001000001,
+    "cargo": "Cajero"
+  },
+  {
+    "_id": 2,
+    "nombre": "Valentina Ríos",
+    "cedula": "100000002",
+    "fechaDeNacimiento": "1993-03-15",
+    "correo": "valentina.rios@gmail.com",
+    "direccion": "Calle 23 #10-11",
+    "telefono": 3001000002,
+    "cargo": "Vendedora"
+  },
+  {
+    "_id": 3,
+    "nombre": "Carlos Ramírez",
+    "cedula": "100000003",
+    "fechaDeNacimiento": "1985-07-21",
+    "correo": "carlos.ramirez@gmail.com",
+    "direccion": "Carrera 7 #45-32",
+    "telefono": 3001000003,
+    "cargo": "Administrador"
+  },
+  {
+    "_id": 4,
+    "nombre": "Luisa Martínez",
+    "cedula": "100000004",
+    "fechaDeNacimiento": "1994-11-09",
+    "correo": "luisa.martinez@gmail.com",
+    "direccion": "Calle 98 #12-34",
+    "telefono": 3001000004,
+    "cargo": "Cajera"
+  },
+  {
+    "_id": 5,
+    "nombre": "Esteban Gómez",
+    "cedula": "100000005",
+    "fechaDeNacimiento": "1990-02-17",
+    "correo": "esteban.gomez@gmail.com",
+    "direccion": "Carrera 34 #56-78",
+    "telefono": 3001000005,
+    "cargo": "Supervisor"
+  },
+  {
+    "_id": 6,
+    "nombre": "Camila Torres",
+    "cedula": "100000006",
+    "fechaDeNacimiento": "1995-05-25",
+    "correo": "camila.torres@gmail.com",
+    "direccion": "Calle 40 #20-15",
+    "telefono": 3001000006,
+    "cargo": "Cajera"
+  },
+  {
+    "_id": 7,
+    "nombre": "Andrés Díaz",
+    "cedula": "100000007",
+    "fechaDeNacimiento": "1988-08-30",
+    "correo": "andres.diaz@gmail.com",
+    "direccion": "Carrera 15 #33-44",
+    "telefono": 3001000007,
+    "cargo": "Repartidor"
+  },
+  {
+    "_id": 8,
+    "nombre": "Natalia Herrera",
+    "cedula": "100000008",
+    "fechaDeNacimiento": "1991-10-12",
+    "correo": "natalia.herrera@gmail.com",
+    "direccion": "Calle 60 #25-10",
+    "telefono": 3001000008,
+    "cargo": "Vendedora"
+  },
+  {
+    "_id": 9,
+    "nombre": "Juan Molina",
+    "cedula": "100000009",
+    "fechaDeNacimiento": "1989-04-28",
+    "correo": "juan.molina@gmail.com",
+    "direccion": "Carrera 8 #22-11",
+    "telefono": 3001000009,
+    "cargo": "Administrador"
+  },
+  {
+    "_id": 10,
+    "nombre": "Diana Castillo",
+    "cedula": "100000010",
+    "fechaDeNacimiento": "1996-12-05",
+    "correo": "diana.castillo@gmail.com",
+    "direccion": "Calle 72 #30-25",
+    "telefono": 3001000010,
+    "cargo": "Cajera"
+  },
+  {
+    "_id": 11,
+    "nombre": "Julián Ortega",
+    "cedula": "100000011",
+    "fechaDeNacimiento": "1993-06-18",
+    "correo": "julian.ortega@gmail.com",
+    "direccion": "Carrera 16 #44-55",
+    "telefono": 3001000011,
+    "cargo": "Supervisor"
+  },
+  {
+    "_id": 12,
+    "nombre": "Mariana Vega",
+    "cedula": "100000012",
+    "fechaDeNacimiento": "1997-08-14",
+    "correo": "mariana.vega@gmail.com",
+    "direccion": "Calle 35 #50-60",
+    "telefono": 3001000012,
+    "cargo": "Vendedora"
+  },
+  {
+    "_id": 13,
+    "nombre": "Pedro Nieto",
+    "cedula": "100000013",
+    "fechaDeNacimiento": "1990-09-30",
+    "correo": "pedro.nieto@gmail.com",
+    "direccion": "Carrera 12 #11-99",
+    "telefono": 3001000013,
+    "cargo": "Repartidor"
+  },
+  {
+    "_id": 14,
+    "nombre": "Daniela Lozano",
+    "cedula": "100000014",
+    "fechaDeNacimiento": "1992-03-03",
+    "correo": "daniela.lozano@gmail.com",
+    "direccion": "Calle 11 #5-67",
+    "telefono": 3001000014,
+    "cargo": "Cajera"
+  },
+  {
+    "_id": 15,
+    "nombre": "Fernando Ruiz",
+    "cedula": "100000015",
+    "fechaDeNacimiento": "1987-12-22",
+    "correo": "fernando.ruiz@gmail.com",
+    "direccion": "Carrera 66 #13-40",
+    "telefono": 3001000015,
+    "cargo": "Supervisor"
+  },
+  {
+    "_id": 16,
+    "nombre": "Sofía Beltrán",
+    "cedula": "100000016",
+    "fechaDeNacimiento": "1998-01-19",
+    "correo": "sofia.beltran@gmail.com",
+    "direccion": "Calle 55 #17-22",
+    "telefono": 3001000016,
+    "cargo": "Vendedora"
+  },
+  {
+    "_id": 17,
+    "nombre": "Tomás Cárdenas",
+    "cedula": "100000017",
+    "fechaDeNacimiento": "1994-04-09",
+    "correo": "tomas.cardenas@gmail.com",
+    "direccion": "Carrera 78 #22-33",
+    "telefono": 3001000017,
+    "cargo": "Repartidor"
+  },
+  {
+    "_id": 18,
+    "nombre": "Laura Moreno",
+    "cedula": "100000018",
+    "fechaDeNacimiento": "1995-07-06",
+    "correo": "laura.moreno@gmail.com",
+    "direccion": "Calle 100 #10-10",
+    "telefono": 3001000018,
+    "cargo": "Cajera"
+  },
+  {
+    "_id": 19,
+    "nombre": "Sebastián Torres",
+    "cedula": "100000019",
+    "fechaDeNacimiento": "1991-09-23",
+    "correo": "sebastian.torres@gmail.com",
+    "direccion": "Carrera 3 #30-10",
+    "telefono": 3001000019,
+    "cargo": "Administrador"
+  },
+  {
+    "_id": 20,
+    "nombre": "Isabela Franco",
+    "cedula": "100000020",
+    "fechaDeNacimiento": "1999-11-11",
+    "correo": "isabela.franco@gmail.com",
+    "direccion": "Calle 9 #12-34",
+    "telefono": 3001000020,
+    "cargo": "Vendedora"
+  }
+]

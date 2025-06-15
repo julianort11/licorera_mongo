@@ -1,0 +1,243 @@
+[
+  {
+    "_id": 1,
+    "nombre": "aguardiente antioqueño",
+    "variedad": "tapa azul",
+    "provedor": "FLA",
+    "stock": 1,
+    "presentacion": "1050 ML",
+    "porcetajeAlcohol": "29%",
+    "precio": 74000,
+    "descripcion": "dskahdsahda"
+  },
+  {
+    "_id": 2,
+    "nombre": "aguardiente antioqueño",
+    "variedad": "tapa roja",
+    "provedor": "FLA",
+    "stock": 5,
+    "presentacion": "1050 ML",
+    "porcetajeAlcohol": "29%",
+    "precio": "74000"
+  },
+  {
+    "_id": 3,
+    "nombre": "Ron Medellín",
+    "variedad": "Añejo 3 Años",
+    "provedor": "Industria Licorera de Caldas",
+    "stock": 10,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "35%",
+    "precio": 53000,
+    "descripcion": "Ron tradicional colombiano añejado 3 años"
+  },
+  {
+    "_id": 4,
+    "nombre": "Ron Medellín",
+    "variedad": "Añejo 8 Años",
+    "provedor": "Industria Licorera de Caldas",
+    "stock": 5,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "35%",
+    "precio": 72000,
+    "descripcion": "Ron premium colombiano añejado 8 años"
+  },
+  {
+    "_id": 5,
+    "nombre": "Cerveza Águila",
+    "variedad": "Tradicional",
+    "provedor": "Bavaria",
+    "stock": 60,
+    "presentacion": "355 ML",
+    "porcetajeAlcohol": "4.0%",
+    "precio": 3500,
+    "descripcion": "Cerveza lager suave, ideal para eventos"
+  },
+  {
+    "_id": 6,
+    "nombre": "Cerveza Club Colombia",
+    "variedad": "Dorada",
+    "provedor": "Bavaria",
+    "stock": 40,
+    "presentacion": "330 ML",
+    "porcetajeAlcohol": "4.7%",
+    "precio": 4200,
+    "descripcion": "Cerveza premium tipo lager dorada"
+  },
+  {
+    "_id": 7,
+    "nombre": "Whisky Buchanan's",
+    "variedad": "12 Años",
+    "provedor": "Diageo",
+    "stock": 12,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "40%",
+    "precio": 130000,
+    "descripcion": "Whisky escocés mezcla premium de 12 años"
+  },
+  {
+    "_id": 8,
+    "nombre": "Whisky Old Parr",
+    "variedad": "12 Años",
+    "provedor": "Diageo",
+    "stock": 8,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "40%",
+    "precio": 125000,
+    "descripcion": "Whisky escocés con cuerpo fuerte y sabor suave"
+  },
+  {
+    "_id": 9,
+    "nombre": "Vodka Absolut",
+    "variedad": "Original",
+    "provedor": "Pernod Ricard",
+    "stock": 15,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "40%",
+    "precio": 70000,
+    "descripcion": "Vodka sueco puro y natural"
+  },
+  {
+    "_id": 10,
+    "nombre": "Tequila José Cuervo",
+    "variedad": "Especial Reposado",
+    "provedor": "José Cuervo",
+    "stock": 10,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "38%",
+    "precio": 85000,
+    "descripcion": "Tequila mexicano suave reposado en roble"
+  },
+  {
+    "_id": 11,
+    "nombre": "Ginebra Tanqueray",
+    "variedad": "London Dry",
+    "provedor": "Diageo",
+    "stock": 7,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "47.3%",
+    "precio": 99000,
+    "descripcion": "Ginebra con fuerte aroma botánico"
+  },
+  {
+    "_id": 12,
+    "nombre": "Baileys",
+    "variedad": "Original",
+    "provedor": "Diageo",
+    "stock": 6,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "17%",
+    "precio": 65000,
+    "descripcion": "Licor de crema irlandesa dulce y suave"
+  },
+  {
+    "_id": 13,
+    "nombre": "Vino Gato Negro",
+    "variedad": "Cabernet Sauvignon",
+    "provedor": "Viña San Pedro",
+    "stock": 25,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "13%",
+    "precio": 28000,
+    "descripcion": "Vino tinto chileno con sabor afrutado"
+  },
+  {
+    "_id": 14,
+    "nombre": "Vino Concha y Toro",
+    "variedad": "Merlot",
+    "provedor": "Concha y Toro",
+    "stock": 18,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "13.5%",
+    "precio": 35000,
+    "descripcion": "Vino chileno suave y aromático"
+  },
+  {
+    "_id": 15,
+    "nombre": "Cerveza Corona",
+    "variedad": "Extra",
+    "provedor": "Grupo Modelo",
+    "stock": 30,
+    "presentacion": "355 ML",
+    "porcetajeAlcohol": "4.5%",
+    "precio": 4500,
+    "descripcion": "Cerveza mexicana clara y refrescante"
+  },
+  {
+    "_id": 16,
+    "nombre": "Cerveza Poker",
+    "variedad": "Tradicional",
+    "provedor": "Bavaria",
+    "stock": 50,
+    "presentacion": "355 ML",
+    "porcetajeAlcohol": "4%",
+    "precio": 3200,
+    "descripcion": "Cerveza nacional ideal para reuniones"
+  },
+  {
+    "_id": 17,
+    "nombre": "Brandy Domecq",
+    "variedad": "Tradicional",
+    "provedor": "Pedro Domecq",
+    "stock": 10,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "35%",
+    "precio": 39000,
+    "descripcion": "Brandy español suave y accesible"
+  },
+  {
+    "_id": 18,
+    "nombre": "Ron Viejo de Caldas",
+    "variedad": "Tradicional",
+    "provedor": "Industria Licorera de Caldas",
+    "stock": 12,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "35%",
+    "precio": 49000,
+    "descripcion": "Ron colombiano de alta calidad"
+  },
+  {
+    "_id": 19,
+    "nombre": "Aguardiente Néctar",
+    "variedad": "Rojo",
+    "provedor": "Empresa de Licores de Cundinamarca",
+    "stock": 20,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "29%",
+    "precio": 69000,
+    "descripcion": "Aguardiente fuerte y tradicional"
+  },
+  {
+    "_id": 20,
+    "nombre": "Aguardiente Néctar",
+    "variedad": "Azul sin azúcar",
+    "provedor": "Empresa de Licores de Cundinamarca",
+    "stock": 16,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "29%",
+    "precio": 70000,
+    "descripcion": "Versión ligera sin azúcar"
+  },
+  {
+    "_id": 21,
+    "nombre": "Whisky Johnnie Walker",
+    "variedad": "Black Label",
+    "provedor": "Diageo",
+    "stock": 8,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "40%",
+    "precio": 140000,
+    "descripcion": "Mezcla escocesa de whiskies añejados por 12 años"
+  },
+  {
+    "_id": 22,
+    "nombre": "Vino Barefoot",
+    "variedad": "Moscato",
+    "provedor": "Barefoot Cellars",
+    "stock": 10,
+    "presentacion": "750 ML",
+    "porcetajeAlcohol": "9%",
+    "precio": 30000,
+    "descripcion": "Vino blanco dulce ideal para postres"
+  }
+]
